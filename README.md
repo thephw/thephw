@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Patrick Wiseman
 
-**Chief Platform Officer at [@orderlymeds](https://github.com/orderlymeds)** — building and scaling healthcare & SaaS platforms. Ops + product leadership, with 17 years of software development behind it.
+**Chief Platform Officer at [@orderlymeds](https://github.com/orderlymeds)** — a vertically-integrated healthtech platform restoring dignity, access, and simplicity to healthcare. I joined as VP of Engineering and now lead ops + product across the platform.
 
-Previously I led engineering at **Calendly** (Director of Engineering) and **SalesLoft**, co-founded **Flowerwork**, and ran **Deft**, a consultancy helping high-growth teams adopt software best practices. Along the way: 14 years managing engineering teams and 8 years managing managers — it's recursion all the way up.
+Before this: **Director of Engineering at Calendly**, engineering leadership at **SalesLoft**, and founder of **Flowerwork**. I also run [**Deft**](https://deft.services), a consultancy helping technical executives guide their teams to ship better software. That adds up to 17 years building software, 14 years managing engineering teams, and 8 years managing managers — it's recursion all the way up.
 
-Georgia Tech alum 🐝 · Atlanta, GA 🍑
+Georgia Tech alum 🐝 (Computer Engineering) · Atlanta, GA 🍑
 
 ## 🧰 What I work with
 
@@ -17,6 +17,10 @@ Georgia Tech alum 🐝 · Atlanta, GA 🍑
 - [**claude-meseeks**](https://github.com/thephw/claude-meseeks) — a Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting on you. Look at me! ⭐ my most-starred repo, proving that developer tools are allowed to be fun.
 - [**take_home**](https://github.com/thephw/take_home) — 💰 helps folks figure out their take-home pay and taxes, because pay transparency shouldn't require a spreadsheet wizard.
 - [**hugo-buildpack**](https://github.com/thephw/hugo-buildpack) — a Cloud Native Buildpack for building Hugo static sites.
+
+## 🏕️ Community
+
+Co-organizer of [**Rails Camp South**](https://us-south.rails.camp) — a retreat where the software and design community unplugs and learns around a campfire. Formerly a mentor at **Techstars Atlanta**, helping new founders navigate building an enterprise from scratch.
 
 ## 📈 Stats
 
