@@ -16,6 +16,7 @@ Georgia Tech alum 🐝 (Computer Engineering) · Atlanta, GA 🍑
 
 - [**claude-meseeks**](https://github.com/thephw/claude-meseeks) — a Claude Code plugin that plays a Mr. Meeseeks voice line whenever Claude is waiting on you. Look at me! ⭐ my most-starred repo, proving that developer tools are allowed to be fun.
 - [**take_home**](https://github.com/thephw/take_home) — 💰 helps folks figure out their take-home pay and taxes, because pay transparency shouldn't require a spreadsheet wizard.
+- [**flowerworkio/buildpacks**](https://github.com/flowerworkio/buildpacks) — CNCF Cloud Native Buildpacks from Flowerwork, for building apps from source to container image without a Dockerfile.
 - [**hugo-buildpack**](https://github.com/thephw/hugo-buildpack) — a Cloud Native Buildpack for building Hugo static sites.
 
 ## 🏕️ Community
