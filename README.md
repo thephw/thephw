@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Patrick Wiseman
+# 👋 Hi, I'm Patches
 
 **Chief Platform Officer at [@orderlymeds](https://github.com/orderlymeds)** — a vertically-integrated healthtech platform restoring dignity, access, and simplicity to healthcare. I joined as VP of Engineering and now lead ops + product across the platform.
 
-Before this: **Director of Engineering at Calendly**, engineering leadership at **SalesLoft**, and founder of **Flowerwork**. I also run [**Deft**](https://deft.services), a consultancy helping technical executives guide their teams to ship better software. That adds up to 17 years building software, 14 years managing engineering teams, and 8 years managing managers — it's recursion all the way up.
+Before this: **Director of Engineering at Calendly**, engineering leadership at **SalesLoft**, and founder of **Flowerwork**. I also run [**Deft**](https://deft.services), a consultancy helping technical executives guide their teams to ship better software. That adds up to 26 years building software, 15 years managing engineering teams, and 9 years managing managers at the time of writing.
 
 Georgia Tech alum 🐝 (Computer Engineering) · Atlanta, GA 🍑
 
