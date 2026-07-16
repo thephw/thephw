@@ -23,10 +23,6 @@ Georgia Tech alum 🐝 (Computer Engineering) · Atlanta, GA 🍑
 
 Co-organizer of [**Rails Camp South**](https://us-south.rails.camp) — a retreat where the software and design community unplugs and learns around a campfire. Formerly a mentor at **Techstars Atlanta**, helping new founders navigate building an enterprise from scratch.
 
-## 📈 Stats
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=thephw&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
 ---
 
 🌐 [thephw.com](https://thephw.com) · 💼 [LinkedIn](https://linkedin.com/in/thephw) · ✉️ [patrick@orderlymeds.com](mailto:patrick@orderlymeds.com)
